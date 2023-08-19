@@ -1,0 +1,48 @@
+.section-1 {
+    background-color: aqua;
+    width: 70%;
+}
+.section-2{
+    background-color: blue;
+}
+.wab{
+    text-align: center;
+}
+.section-1 h2{
+    color: red;
+}
+.section-2 h2{
+    color: black;
+}
+.section-1 a{
+    text-decoration: none;
+    text-align: center; 
+    font-weight: boldS;
+    color: rgba(204, 10, 26, 0.753);
+    
+}
+.section-2 a{
+    text-decoration: none;
+    text-align: center;
+    font-size: 200%;
+    color: red;
+}
+.section-1 p{
+    text-align: center;
+    font-size: 150%;
+    color: green;
+}
+.section-2 p{
+    text-align: center;
+    font-size: 150%;
+    color: #ee1111;
+}
+.section-3{
+    background-color: hwb(117 2% 10%);
+    font: size 20px; ;
+    color: #0b0a10;
+}
+.section-3 h1{
+    text-align: center;
+    color: #ee1111;
+}
